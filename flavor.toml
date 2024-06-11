@@ -29,7 +29,7 @@ count_selected = { fg = "darkgray", bg = "blue" } # Darkened black on Blue
 
 # Border
 border_symbol = "│"
-border_style = { fg = "#22467a" } # Darkened black
+border_style = { fg = "black" } # Darkened black
 
 # : }}}
 
