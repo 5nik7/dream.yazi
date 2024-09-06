@@ -29,34 +29,7 @@ count_selected = { fg = "darkgray", bg = "blue" }     # Darkened black on Blue
 
 # Border
 border_symbol = "│"
-border_style = { fg = "black" } # Darkened black
-
-# : }}}
-
-
-# : Status {{{
-
-[status]
-separator_open = ""
-separator_close = ""
-separator_style = { fg = "lightblue", bg = "black" } # Blue on Darkened black
-
-# Mode
-mode_normal = { fg = "black", bg = "blue", bold = true }        # Darkened black on Blue
-mode_select = { fg = "black", bg = "lightgreen", bold = true }  # Darkened black on Green
-mode_unset = { fg = "black", bg = "lightmagenta", bold = true } # Darkened black on Magenta
-
-# Progress
-progress_label = { fg = "gray", bold = true }         # White
-progress_normal = { fg = "blue", bg = "darkgray" }    # Blue on Darkened black
-progress_error = { fg = "lightred", bg = "darkgray" } # Red on Darkened black
-
-# Permissions
-permissions_t = { fg = "blue" }     # Blue
-permissions_r = { fg = "green" }    # Green
-permissions_w = { fg = "yellow" }   # Yellow
-permissions_x = { fg = "lightred" } # Red
-permissions_s = { fg = "magenta" }  # Magenta
+border_style = { fg = "#1f2e59" } # Darkened black
 
 # : }}}
 
